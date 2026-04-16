@@ -1,0 +1,14 @@
+A very practical routine is:
+
+source .venv/bin/activate
+cd path/to/pfQMC_kitaev
+git status
+
+Do your work in VS Code.
+
+Then when you want to save progress:
+
+git status
+git add .
+git commit -m "your message here"
+git push
