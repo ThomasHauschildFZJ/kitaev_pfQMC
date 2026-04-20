@@ -1,0 +1,2 @@
+Check on the sign of log() likely off
+second check If I add S_B the gaussian from the HS trafo.
